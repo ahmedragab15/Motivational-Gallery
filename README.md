@@ -22,4 +22,4 @@ A clean and minimal **Image Gallery** built with **HTML, CSS, and JavaScript**, 
 
 ## 🚀 Live Demo
 
-[🔗 Live Demo Here](https://github.com/ahmedragab15/Motivational-Gallery)
+[🔗 Live Demo Here](https://ahmedragab15.github.io/Motivational-Gallery)
